@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sct_mus</string>
+    <string name="a">點選歌曲即可播放</string>
+    <string name="b">歌曲清單:</string>
+</resources>
